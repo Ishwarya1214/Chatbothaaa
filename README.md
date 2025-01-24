@@ -120,7 +120,7 @@ hospital-appointment-management/
 ---
 
 ## 🤝 **Contributors**
-- [Ishwarya S](https://github.com/your-github-profile)
+- [Ishwarya S](https://github.com/Ishwarya1214)
 
 ---
 
